@@ -1,0 +1,408 @@
+[
+  {
+    "nitrogen": 30,
+    "phosphorus": 20,
+    "potassium": 40,
+    "moisture": 60,
+    "timestamp": "2025-02-20T17:29:01.851Z"
+  },
+  {
+    "nitrogen": "1",
+    "phosphorus": "2",
+    "potassium": "3",
+    "moisture": "4",
+    "timestamp": "2025-02-20T17:41:59.042Z"
+  },
+  {
+    "nitrogen": "2",
+    "phosphorus": "3",
+    "potassium": "4",
+    "moisture": "5",
+    "timestamp": "2025-02-20T17:53:37.698Z"
+  },
+  {
+    "nitrogen": "1",
+    "phosphorus": "2",
+    "potassium": "3",
+    "moisture": "4",
+    "timestamp": "2025-02-20T17:55:53.418Z"
+  },
+  {
+    "nitrogen": "12",
+    "phosphorus": "14",
+    "potassium": "11",
+    "moisture": "9",
+    "timestamp": "2025-02-20T17:56:37.564Z"
+  },
+  {
+    "nitrogen": "10",
+    "phosphorus": "12",
+    "potassium": "13",
+    "moisture": "18",
+    "timestamp": "2025-02-20T19:35:21.625Z"
+  },
+  {
+    "nitrogen": "10",
+    "phosphorus": "20",
+    "potassium": "30",
+    "moisture": "87",
+    "timestamp": "2025-02-21T06:12:37.456Z"
+  },
+  {
+    "nitrogen": "90",
+    "phosphorus": "42",
+    "potassium": "43",
+    "temperature": "21",
+    "humidity": "82",
+    "ph": "6.5",
+    "rainfall": "202",
+    "timestamp": "2025-02-21T06:18:03.552Z"
+  },
+  {
+    "nitrogen": "90",
+    "phosphorus": "42",
+    "potassium": "43",
+    "temperature": "21",
+    "humidity": "82",
+    "ph": "6.5",
+    "rainfall": "202",
+    "timestamp": "2025-02-21T06:18:04.193Z"
+  },
+  {
+    "nitrogen": "90",
+    "phosphorus": "42",
+    "potassium": "43",
+    "temperature": "21",
+    "humidity": "82",
+    "ph": "6.5",
+    "rainfall": "202",
+    "timestamp": "2025-02-21T06:18:04.699Z"
+  },
+  {
+    "nitrogen": "90",
+    "phosphorus": "42",
+    "potassium": "43",
+    "temperature": "21",
+    "humidity": "82",
+    "ph": "6.5",
+    "rainfall": "202",
+    "timestamp": "2025-02-21T06:18:04.844Z"
+  },
+  {
+    "nitrogen": "90",
+    "phosphorus": "42",
+    "potassium": "43",
+    "temperature": "21",
+    "humidity": "82",
+    "ph": "6.5",
+    "rainfall": "202",
+    "timestamp": "2025-02-21T06:18:05.131Z"
+  },
+  {
+    "nitrogen": "90",
+    "phosphorus": "42",
+    "potassium": "43",
+    "temperature": "21",
+    "humidity": "82",
+    "ph": "6.5",
+    "rainfall": "202",
+    "timestamp": "2025-02-21T06:18:26.837Z"
+  },
+  {
+    "nitrogen": "80",
+    "phosphorus": "43",
+    "potassium": "16",
+    "temperature": "24",
+    "humidity": "72",
+    "ph": "7",
+    "rainfall": "67",
+    "timestamp": "2025-02-21T06:26:13.309Z"
+  },
+  {
+    "nitrogen": 90,
+    "phosphorus": 40,
+    "potassium": 50,
+    "temperature": 27,
+    "humidity": 65,
+    "ph": 6.5,
+    "rainfall": 100,
+    "timestamp": "2025-02-21T07:50:38.110Z"
+  },
+  {
+    "nitrogen": 90,
+    "phosphorus": 40,
+    "potassium": 50,
+    "temperature": 27,
+    "humidity": 65,
+    "ph": 7,
+    "rainfall": 99,
+    "timestamp": "2025-02-21T07:56:04.062Z"
+  },
+  {
+    "nitrogen": 90,
+    "phosphorus": 40,
+    "potassium": 50,
+    "temperature": 27,
+    "humidity": 64,
+    "ph": 7,
+    "rainfall": 99,
+    "timestamp": "2025-02-21T08:06:01.414Z"
+  },
+  {
+    "nitrogen": 90,
+    "phosphorus": 39,
+    "potassium": 51,
+    "temperature": 27,
+    "humidity": 64,
+    "ph": 7,
+    "rainfall": 99,
+    "timestamp": "2025-02-21T08:16:42.042Z"
+  },
+  {
+    "nitrogen": "80",
+    "phosphorus": "20",
+    "potassium": "30",
+    "temperature": "24",
+    "humidity": "89",
+    "ph": "5",
+    "rainfall": "200",
+    "timestamp": "2025-04-23T09:27:24.879Z",
+    "prediction": "jute"
+  },
+  {
+    "nitrogen": "90",
+    "phosphorus": "42",
+    "potassium": "43",
+    "temperature": "21",
+    "humidity": "82",
+    "ph": "6",
+    "rainfall": "200",
+    "timestamp": "2025-04-23T09:30:04.467Z",
+    "prediction": "rice"
+  },
+  {
+    "nitrogen": "90",
+    "phosphorus": "42",
+    "potassium": "34",
+    "temperature": "27",
+    "humidity": "54",
+    "ph": "6",
+    "rainfall": "100",
+    "timestamp": "2025-04-23T10:55:14.276Z",
+    "prediction": "coffee"
+  },
+  {
+    "nitrogen": "43",
+    "phosphorus": "64",
+    "potassium": "53",
+    "temperature": "29.8",
+    "humidity": "67",
+    "ph": "5.6",
+    "rainfall": "168",
+    "timestamp": "2025-04-23T12:46:40.638Z",
+    "prediction": "jute"
+  },
+  {
+    "nitrogen": "15",
+    "phosphorus": "40",
+    "potassium": "55",
+    "temperature": "28.5",
+    "humidity": "50",
+    "ph": "7.25",
+    "rainfall": "297",
+    "timestamp": "2025-04-24T20:42:43.451Z",
+    "prediction": "coffee"
+  },
+  {
+    "nitrogen": "60",
+    "phosphorus": "60",
+    "potassium": "60",
+    "temperature": "28.5",
+    "humidity": "50",
+    "ph": "7.25",
+    "rainfall": "297",
+    "timestamp": "2025-04-24T20:43:35.051Z",
+    "prediction": "coffee"
+  },
+  {
+    "nitrogen": "44",
+    "phosphorus": "44",
+    "potassium": "44",
+    "temperature": "28.5",
+    "humidity": "57",
+    "ph": "6.43",
+    "rainfall": "297",
+    "timestamp": "2025-04-25T06:26:35.582Z"
+  },
+  {
+    "nitrogen": "44",
+    "phosphorus": "44",
+    "potassium": "44",
+    "temperature": "28.5",
+    "humidity": "57",
+    "ph": "6.43",
+    "rainfall": "297",
+    "timestamp": "2025-04-25T06:26:39.052Z"
+  },
+  {
+    "nitrogen": "44",
+    "phosphorus": "44",
+    "potassium": "44",
+    "temperature": "28.5",
+    "humidity": "57",
+    "ph": "6.43",
+    "rainfall": "297",
+    "timestamp": "2025-04-25T06:29:51.405Z"
+  },
+  {
+    "nitrogen": "44",
+    "phosphorus": "44",
+    "potassium": "44",
+    "temperature": "28.5",
+    "humidity": "57",
+    "ph": "6.43",
+    "rainfall": "297",
+    "timestamp": "2025-04-25T06:41:18.439Z"
+  },
+  {
+    "nitrogen": "44",
+    "phosphorus": "44",
+    "potassium": "44",
+    "temperature": "28.5",
+    "humidity": "57",
+    "ph": "6.43",
+    "rainfall": "297",
+    "timestamp": "2025-04-25T06:43:14.537Z"
+  },
+  {
+    "nitrogen": "44",
+    "phosphorus": "44",
+    "potassium": "44",
+    "temperature": "28.5",
+    "humidity": "57",
+    "ph": "6.43",
+    "rainfall": "297",
+    "timestamp": "2025-04-25T06:45:48.619Z"
+  },
+  {
+    "nitrogen": "44",
+    "phosphorus": "44",
+    "potassium": "44",
+    "temperature": "28.5",
+    "humidity": "57",
+    "ph": "6.43",
+    "rainfall": "297",
+    "timestamp": "2025-04-25T07:00:57.782Z",
+    "prediction": "pigeonpeas"
+  },
+  {
+    "nitrogen": "44",
+    "phosphorus": "44",
+    "potassium": "44",
+    "temperature": "28.5",
+    "humidity": "57",
+    "ph": "6.43",
+    "rainfall": "297",
+    "timestamp": "2025-04-25T07:06:39.411Z",
+    "prediction": "pigeonpeas"
+  },
+  {
+    "nitrogen": "53",
+    "phosphorus": "53",
+    "potassium": "53",
+    "temperature": "29.8",
+    "humidity": "52",
+    "ph": "6.96",
+    "rainfall": "99",
+    "timestamp": "2025-05-02T16:23:29.521Z",
+    "prediction": "mango"
+  },
+  {
+    "nitrogen": "53",
+    "phosphorus": "53",
+    "potassium": "53",
+    "temperature": "29.8",
+    "humidity": "52",
+    "ph": "6.96",
+    "rainfall": "99",
+    "timestamp": "2025-05-02T16:24:53.118Z",
+    "prediction": "mango"
+  },
+  {
+    "nitrogen": "53",
+    "phosphorus": "53",
+    "potassium": "53",
+    "temperature": "29.8",
+    "humidity": "52",
+    "ph": "6.96",
+    "rainfall": "99",
+    "timestamp": "2025-05-02T16:26:58.477Z",
+    "prediction": "mango"
+  },
+  {
+    "nitrogen": "53",
+    "phosphorus": "53",
+    "potassium": "53",
+    "temperature": "29.8",
+    "humidity": "52",
+    "ph": "6.96",
+    "rainfall": "99",
+    "timestamp": "2025-05-02T16:29:39.616Z",
+    "prediction": "mango"
+  },
+  {
+    "nitrogen": "53",
+    "phosphorus": "53",
+    "potassium": "53",
+    "temperature": "29.8",
+    "humidity": "52",
+    "ph": "6.96",
+    "rainfall": "99",
+    "timestamp": "2025-05-02T16:30:56.424Z",
+    "prediction": "mango"
+  },
+  {
+    "nitrogen": "53",
+    "phosphorus": "53",
+    "potassium": "53",
+    "temperature": "29.8",
+    "humidity": "52",
+    "ph": "6.96",
+    "rainfall": "99",
+    "timestamp": "2025-05-02T16:34:04.172Z",
+    "prediction": "mango"
+  },
+  {
+    "nitrogen": "53",
+    "phosphorus": "53",
+    "potassium": "53",
+    "temperature": "29.8",
+    "humidity": "52",
+    "ph": "6.96",
+    "rainfall": "99",
+    "timestamp": "2025-05-02T16:36:11.223Z",
+    "prediction": "mango"
+  },
+  {
+    "nitrogen": "43",
+    "phosphorus": "43",
+    "potassium": "43",
+    "temperature": "29.8",
+    "humidity": "52",
+    "ph": "6.96",
+    "rainfall": "99",
+    "timestamp": "2025-05-02T16:38:23.806Z",
+    "prediction": "mango"
+  },
+  {
+    "nitrogen": "44",
+    "phosphorus": "44",
+    "potassium": "44",
+    "temperature": "29.8",
+    "humidity": "52",
+    "ph": "6.96",
+    "rainfall": "99",
+    "timestamp": "2025-05-02T16:39:38.093Z",
+    "prediction": "mango"
+  }
+]

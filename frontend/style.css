@@ -1,0 +1,89 @@
+/* General Styles */
+body {
+    background: url("./images/background.png") no-repeat center center/cover;
+    font-family: 'Raleway', serif;
+    background-color: #f4f1ea; /* Light beige */
+    color: #2c5e1a; /* Deep green */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Container */
+.container {
+    background: #fffdf5; /* White background */
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    text-align: center;
+}
+
+/* Headings */
+h1 {
+    color: #2c5e1a; /* Dark green */
+    margin-bottom: 20px;
+}
+
+/* Form Styles */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Input Fields */
+input {
+    font-family: 'Raleway', serif;
+    width: 93%;
+    padding: 10px;
+    border: 2px solid #8bc34a; /* Light green */
+    border-radius: 6px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+input:focus {
+    border-color: #4caf50; /* Darker green */
+}
+
+/* Buttons */
+button {
+    font-family: 'Raleway', serif;
+    background-color: #4caf50; /* Green */
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #388e3c; /* Darker green */
+}
+
+/* Display Data Section */
+#displayData {
+    margin-top: 15px;
+    text-align: left;
+}
+
+#displayData h3 {
+    color: #795548; /* Earthy brown */
+    font-size: 18px;
+}
+
+#displayData p {
+    background: #e8f5e9; /* Light greenish background */
+    padding: 8px;
+    border-left: 4px solid #4caf50;
+    margin: 5px 0;
+    border-radius: 6px;
+    font-size: 14px;
+}
